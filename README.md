@@ -1,2 +1,2 @@
-# Weather_Scrapper
-Web-Scrapper of weather website with BeautifulSoap
+# Web-Scrapper of weather website with BeautifulSoap
+
